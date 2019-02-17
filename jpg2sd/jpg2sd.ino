@@ -4,7 +4,7 @@
   edit by v12345vtm : https://www.youtube.com/user/v12345vtm
   
 
-  https://github.com/v12345vtm/ESP32-CAM-IPCAM
+https://github.com/v12345vtm/esp32-almost-jpg2sd
    SD Card | ESP32    |esp32-cam
       D2       -          -
       D3       SS         gpio13
